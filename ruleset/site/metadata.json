@@ -1,10 +1,10 @@
 {
   "type": "site",
-  "generated_at": "2026-10-24",
+  "generated_at": "2026-10-26",
   "source": "v2fly domain-list-community + CrUX top sites",
   "country_count": 243,
   "global_provider": {
-    "total_rules": 180565
+    "total_rules": 180578
   },
   "countries": {
     "AD": {
@@ -370,9 +370,9 @@
     "CN": {
       "name_en": "China",
       "name_zh": "中国",
-      "total_rules": 10311,
+      "total_rules": 10324,
       "rules": {
-        "domain": 10293,
+        "domain": 10306,
         "full": 15,
         "regexp": 3
       }
@@ -1559,8 +1559,8 @@
       "name_zh": "瑞典",
       "total_rules": 2665,
       "rules": {
-        "domain": 2657,
-        "full": 8
+        "domain": 2658,
+        "full": 7
       }
     },
     "SG": {
@@ -1822,10 +1822,10 @@
     "US": {
       "name_en": "United States",
       "name_zh": "美国",
-      "total_rules": 8567,
+      "total_rules": 8566,
       "rules": {
         "domain": 8473,
-        "full": 84,
+        "full": 83,
         "regexp": 10
       }
     },

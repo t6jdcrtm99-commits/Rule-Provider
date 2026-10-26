@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: US
 # 美国（United States）
-# 数据日期: 2026-10-24
+# 数据日期: 2026-10-26
 # 数据来源: v2fly domain-list-community + CrUX top sites
-# 规则统计: 共 8567 条（域名: 8473 / 精确域名: 84 / 正则: 10）
+# 规则统计: 共 8566 条（域名: 8473 / 精确域名: 83 / 正则: 10）
 # ============================================================
 host-suffix, 0emm.com
 host-suffix, 1001fonts.com
@@ -4232,7 +4232,6 @@ host-suffix, icloud-content.com.cn
 host-suffix, icloud-isupport.com
 host-suffix, icloud-sandbox.com
 host-suffix, icloud.ch
-host-suffix, icloud.cn
 host-suffix, icloud.com
 host-suffix, icloud.com.cn
 host-suffix, icloud.de
@@ -5745,6 +5744,7 @@ host-suffix, netconsumerguide.com
 host-suffix, netcredit.com
 host-suffix, netflix.ca
 host-suffix, netflix.com
+host-suffix, netflix.com.edgesuite.net
 host-suffix, netflix.net
 host-suffix, netflixdnstest0.com
 host-suffix, netflixdnstest1.com
@@ -8525,7 +8525,6 @@ host, iphone-ld.origin-apple.com.akadns.net
 host, mesu-cdn.apple.com.akadns.net
 host, mesu-china.apple.com.akadns.net
 host, mwf-service.akamaized.net
-host, netflix.com.edgesuite.net
 host, o33249.ingest.sentry.io
 host, o33249.ingest.us.sentry.io
 host, officecdn-microsoft-com.akamaized.net

@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: CN
 # 中国（China）
-# 数据日期: 2026-10-24
+# 数据日期: 2026-10-26
 # 数据来源: v2fly domain-list-community + CrUX top sites
-# 规则统计: 共 10311 条（域名: 10293 / 精确域名: 15 / 正则: 3）
+# 规则统计: 共 10324 条（域名: 10306 / 精确域名: 15 / 正则: 3）
 # ============================================================
 payload:
   - DOMAIN-SUFFIX,00cdn.com
@@ -1456,6 +1456,7 @@ payload:
   - DOMAIN-SUFFIX,biddingx.com
   - DOMAIN-SUFFIX,bidianer.com
   - DOMAIN-SUFFIX,biff.kr
+  - DOMAIN-SUFFIX,bigdatacq.com
   - DOMAIN-SUFFIX,bigo.sg
   - DOMAIN-SUFFIX,bigseller.com
   - DOMAIN-SUFFIX,bihu.com
@@ -1952,6 +1953,8 @@ payload:
   - DOMAIN-SUFFIX,cdntip.com
   - DOMAIN-SUFFIX,cdntips.com
   - DOMAIN-SUFFIX,cdntips.net
+  - DOMAIN-SUFFIX,cdrcb.com
+  - DOMAIN-SUFFIX,cdrcbank.com
   - DOMAIN-SUFFIX,cdtsf.com
   - DOMAIN-SUFFIX,cdut.top
   - DOMAIN-SUFFIX,ceair.com
@@ -2189,6 +2192,7 @@ payload:
   - DOMAIN-SUFFIX,claudechn.com
   - DOMAIN-SUFFIX,clawhub-mirror.com
   - DOMAIN-SUFFIX,clawhubmirror.com
+  - DOMAIN-SUFFIX,cldisk.com
   - DOMAIN-SUFFIX,cleanip.io
   - DOMAIN-SUFFIX,cleargrass.com
   - DOMAIN-SUFFIX,clegc-gckey.gc.ca
@@ -2479,10 +2483,12 @@ payload:
   - DOMAIN-SUFFIX,cqbys.com
   - DOMAIN-SUFFIX,cqcb.com
   - DOMAIN-SUFFIX,cqccn.com
+  - DOMAIN-SUFFIX,cqdcg.com
   - DOMAIN-SUFFIX,cqliving.com
   - DOMAIN-SUFFIX,cqnews.net
   - DOMAIN-SUFFIX,cqsjb.com
   - DOMAIN-SUFFIX,cqvip.com
+  - DOMAIN-SUFFIX,cqyyxc.com
   - DOMAIN-SUFFIX,cr-cts.com
   - DOMAIN-SUFFIX,cr.gov.hk
   - DOMAIN-SUFFIX,cr173.com
@@ -2790,6 +2796,7 @@ payload:
   - DOMAIN-SUFFIX,digimart.net
   - DOMAIN-SUFFIX,digital.go.jp
   - DOMAIN-SUFFIX,digitalchina.com
+  - DOMAIN-SUFFIX,digitalcnzz.com
   - DOMAIN-SUFFIX,digitaling.com
   - DOMAIN-SUFFIX,dili360.com
   - DOMAIN-SUFFIX,dingdachuxing.com
@@ -3067,6 +3074,7 @@ payload:
   - DOMAIN-SUFFIX,eacg.net
   - DOMAIN-SUFFIX,eagsen.com
   - DOMAIN-SUFFIX,easebar.com
+  - DOMAIN-SUFFIX,easemob.com
   - DOMAIN-SUFFIX,easesale.com
   - DOMAIN-SUFFIX,easiu.com
   - DOMAIN-SUFFIX,east-plus.net
@@ -3412,6 +3420,7 @@ payload:
   - DOMAIN-SUFFIX,filemood.com
   - DOMAIN-SUFFIX,filez.com
   - DOMAIN-SUFFIX,filmnudes.com
+  - DOMAIN-SUFFIX,filmorigin.com
   - DOMAIN-SUFFIX,fimfiction.net
   - DOMAIN-SUFFIX,fimmu.com
   - DOMAIN-SUFFIX,finchina.com
@@ -4396,6 +4405,7 @@ payload:
   - DOMAIN-SUFFIX,iask.com
   - DOMAIN-SUFFIX,iau.ir
   - DOMAIN-SUFFIX,ib2b1k14ib.com
+  - DOMAIN-SUFFIX,ibangbank.com
   - DOMAIN-SUFFIX,ibaotu.com
   - DOMAIN-SUFFIX,ibb.co
   - DOMAIN-SUFFIX,ibbs.pro
@@ -4686,6 +4696,7 @@ payload:
   - DOMAIN-SUFFIX,ishijue.com
   - DOMAIN-SUFFIX,ishumei.com
   - DOMAIN-SUFFIX,ishuqi.com
+  - DOMAIN-SUFFIX,isigning.com
   - DOMAIN-SUFFIX,ispqcloud.com
   - DOMAIN-SUFFIX,istarshine.com
   - DOMAIN-SUFFIX,istoreos.com
@@ -4960,7 +4971,6 @@ payload:
   - DOMAIN-SUFFIX,jikecdn.com
   - DOMAIN-SUFFIX,jikeiot.cloud
   - DOMAIN-SUFFIX,jikexueyuan.com
-  - DOMAIN-SUFFIX,jikipedia.com
   - DOMAIN-SUFFIX,jimeng.com
   - DOMAIN-SUFFIX,jin10.com
   - DOMAIN-SUFFIX,jinchutou.com
@@ -5171,6 +5181,7 @@ payload:
   - DOMAIN-SUFFIX,kajicam.com
   - DOMAIN-SUFFIX,kakagal.com
   - DOMAIN-SUFFIX,kakao.com
+  - DOMAIN-SUFFIX,kakaxing.com
   - DOMAIN-SUFFIX,kameng98.com
   - DOMAIN-SUFFIX,kamept.com
   - DOMAIN-SUFFIX,kanav.ad
@@ -6202,7 +6213,6 @@ payload:
   - DOMAIN-SUFFIX,moe48.com
   - DOMAIN-SUFFIX,moedu.com
   - DOMAIN-SUFFIX,moegirl.icu
-  - DOMAIN-SUFFIX,moegirl.org
   - DOMAIN-SUFFIX,moeliuu.com
   - DOMAIN-SUFFIX,moeshare.cc
   - DOMAIN-SUFFIX,mofa.gov.pk
@@ -6406,6 +6416,7 @@ payload:
   - DOMAIN-SUFFIX,naixuecha.com
   - DOMAIN-SUFFIX,namiso.com
   - DOMAIN-SUFFIX,nanhaicorp.com
+  - DOMAIN-SUFFIX,nanocorechip.com
   - DOMAIN-SUFFIX,nanoka.cc
   - DOMAIN-SUFFIX,nanyuenews.com
   - DOMAIN-SUFFIX,narodream.top
@@ -9520,6 +9531,7 @@ payload:
   - DOMAIN-SUFFIX,xiaoluyouxuan.com
   - DOMAIN-SUFFIX,xiaoluzhidian.com
   - DOMAIN-SUFFIX,xiaomaicn.com
+  - DOMAIN-SUFFIX,xiaomaigui.com
   - DOMAIN-SUFFIX,xiaomengai.com
   - DOMAIN-SUFFIX,xiaomi.com
   - DOMAIN-SUFFIX,xiaomi.net
@@ -9716,6 +9728,7 @@ payload:
   - DOMAIN-SUFFIX,xuexi365.com
   - DOMAIN-SUFFIX,xuexi365.net
   - DOMAIN-SUFFIX,xuexicha.com
+  - DOMAIN-SUFFIX,xuexitong.com
   - DOMAIN-SUFFIX,xujc.com
   - DOMAIN-SUFFIX,xundupdf.com
   - DOMAIN-SUFFIX,xunfang.io

@@ -1,7 +1,7 @@
 # ============================================================
 # Rule-Provider: SG
 # 新加坡（Singapore）
-# 数据日期: 2026-10-24
+# 数据日期: 2026-10-26
 # 数据来源: APNIC + IPtoASN
 # 规则统计: 共 4112 条（IPv4: 3228 / IPv6: 884）
 # ============================================================
@@ -1186,7 +1186,6 @@ IP-CIDR,151.242.240.0/23,no-resolve
 IP-CIDR,151.242.243.0/24,no-resolve
 IP-CIDR,151.242.244.0/24,no-resolve
 IP-CIDR,151.244.3.0/24,no-resolve
-IP-CIDR,151.245.90.0/24,no-resolve
 IP-CIDR,151.246.1.0/24,no-resolve
 IP-CIDR,151.246.130.0/24,no-resolve
 IP-CIDR,151.246.182.0/24,no-resolve
@@ -1432,6 +1431,7 @@ IP-CIDR,163.47.176.0/22,no-resolve
 IP-CIDR,163.47.44.0/23,no-resolve
 IP-CIDR,163.5.202.0/24,no-resolve
 IP-CIDR,163.52.110.0/23,no-resolve
+IP-CIDR,163.52.128.0/24,no-resolve
 IP-CIDR,163.52.193.0/24,no-resolve
 IP-CIDR,163.53.245.0/24,no-resolve
 IP-CIDR,163.57.0.0/16,no-resolve

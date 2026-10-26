@@ -1,14 +1,15 @@
 # ============================================================
 # Rule-Provider: PA
 # 巴拿马（Panama）
-# 数据日期: 2026-10-24
+# 数据日期: 2026-10-26
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 1363 条（IPv4: 905 / IPv6: 458）
+# 规则统计: 共 1371 条（IPv4: 913 / IPv6: 458）
 # ============================================================
 IP-CIDR,103.173.150.0/23,no-resolve
 IP-CIDR,103.196.10.0/23,no-resolve
 IP-CIDR,103.86.96.0/22,no-resolve
 IP-CIDR,104.129.160.0/22,no-resolve
+IP-CIDR,104.164.74.0/24,no-resolve
 IP-CIDR,104.238.2.0/24,no-resolve
 IP-CIDR,104.252.161.0/24,no-resolve
 IP-CIDR,104.252.36.0/24,no-resolve
@@ -86,6 +87,8 @@ IP-CIDR,159.148.150.0/24,no-resolve
 IP-CIDR,159.148.222.0/24,no-resolve
 IP-CIDR,159.148.242.0/23,no-resolve
 IP-CIDR,159.148.58.0/24,no-resolve
+IP-CIDR,160.111.132.0/22,no-resolve
+IP-CIDR,160.111.230.0/24,no-resolve
 IP-CIDR,160.111.232.0/21,no-resolve
 IP-CIDR,160.20.164.0/22,no-resolve
 IP-CIDR,160.20.246.0/24,no-resolve
@@ -123,9 +126,11 @@ IP-CIDR,170.83.10.0/23,no-resolve
 IP-CIDR,170.83.240.0/22,no-resolve
 IP-CIDR,172.216.0.0/16,no-resolve
 IP-CIDR,173.0.105.0/24,no-resolve
+IP-CIDR,173.211.31.0/24,no-resolve
 IP-CIDR,173.252.145.0/24,no-resolve
 IP-CIDR,173.252.160.0/24,no-resolve
 IP-CIDR,173.252.166.0/24,no-resolve
+IP-CIDR,174.140.204.0/24,no-resolve
 IP-CIDR,176.102.120.0/22,no-resolve
 IP-CIDR,176.103.240.0/21,no-resolve
 IP-CIDR,176.227.241.0/24,no-resolve
@@ -244,6 +249,7 @@ IP-CIDR,181.79.217.0/24,no-resolve
 IP-CIDR,181.79.220.0/23,no-resolve
 IP-CIDR,181.79.80.0/20,no-resolve
 IP-CIDR,181.79.96.0/22,no-resolve
+IP-CIDR,184.174.69.0/24,no-resolve
 IP-CIDR,185.102.48.0/22,no-resolve
 IP-CIDR,185.114.117.0/24,no-resolve
 IP-CIDR,185.12.44.0/22,no-resolve
@@ -621,6 +627,7 @@ IP-CIDR,66.179.156.0/24,no-resolve
 IP-CIDR,66.45.113.0/24,no-resolve
 IP-CIDR,66.45.76.0/24,no-resolve
 IP-CIDR,67.17.202.0/23,no-resolve
+IP-CIDR,67.203.37.0/24,no-resolve
 IP-CIDR,67.73.164.0/23,no-resolve
 IP-CIDR,68.69.184.0/22,no-resolve
 IP-CIDR,72.244.81.0/24,no-resolve
@@ -715,6 +722,7 @@ IP-CIDR,85.115.120.0/22,no-resolve
 IP-CIDR,85.115.124.0/23,no-resolve
 IP-CIDR,85.115.126.0/24,no-resolve
 IP-CIDR,85.115.96.0/20,no-resolve
+IP-CIDR,85.208.49.0/24,no-resolve
 IP-CIDR,85.254.104.0/21,no-resolve
 IP-CIDR,85.254.116.0/24,no-resolve
 IP-CIDR,85.254.133.0/24,no-resolve

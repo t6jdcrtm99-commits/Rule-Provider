@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: SE
 # 瑞典（Sweden）
-# 数据日期: 2026-10-24
+# 数据日期: 2026-10-26
 # 数据来源: v2fly domain-list-community + CrUX top sites
-# 规则统计: 共 2665 条（域名: 2657 / 精确域名: 8）
+# 规则统计: 共 2665 条（域名: 2658 / 精确域名: 7）
 # ============================================================
 host-suffix, 1001fonts.com
 host-suffix, 123-hda.com
@@ -2087,6 +2087,7 @@ host-suffix, sporza.be
 host-suffix, spoti.fi
 host-suffix, spotify-everywhere.com
 host-suffix, spotify.com
+host-suffix, spotify.com.edgesuite.net
 host-suffix, spotify.design
 host-suffix, spotify.link
 host-suffix, spotifycdn.com
@@ -2667,6 +2668,5 @@ host, audio4-ak-spotify-com.akamaized.net
 host, cdn-spotify-experiments.conductrics.com
 host, heads-ak-spotify-com.akamaized.net
 host, heads4-ak-spotify-com.akamaized.net
-host, spotify.com.edgesuite.net
 host, spotify.map.fastly.net
 host, spotify.map.fastlylb.net

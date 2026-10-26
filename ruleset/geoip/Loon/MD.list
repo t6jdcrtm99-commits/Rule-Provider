@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: MD
 # 摩尔多瓦（Moldova）
-# 数据日期: 2026-10-24
+# 数据日期: 2026-10-26
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 808 条（IPv4: 560 / IPv6: 248）
+# 规则统计: 共 809 条（IPv4: 561 / IPv6: 248）
 # ============================================================
 IP-CIDR,103.106.0.0/22,no-resolve
 IP-CIDR,103.112.68.0/22,no-resolve
@@ -559,6 +559,7 @@ IP-CIDR,94.232.244.0/22,no-resolve
 IP-CIDR,94.232.30.0/24,no-resolve
 IP-CIDR,94.243.64.0/18,no-resolve
 IP-CIDR,94.26.1.0/24,no-resolve
+IP-CIDR,94.26.69.0/24,no-resolve
 IP-CIDR,95.128.152.0/24,no-resolve
 IP-CIDR,95.141.251.0/24,no-resolve
 IP-CIDR,95.153.64.0/18,no-resolve

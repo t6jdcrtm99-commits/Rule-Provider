@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: US
 # 美国（United States）
-# 数据日期: 2026-10-24
+# 数据日期: 2026-10-26
 # 数据来源: v2fly domain-list-community + CrUX top sites
-# 规则统计: 共 8567 条（域名: 8473 / 精确域名: 84 / 正则: 10）
+# 规则统计: 共 8566 条（域名: 8473 / 精确域名: 83 / 正则: 10）
 # ============================================================
 DOMAIN-SUFFIX,0emm.com
 DOMAIN-SUFFIX,1001fonts.com
@@ -4232,7 +4232,6 @@ DOMAIN-SUFFIX,icloud-content.com.cn
 DOMAIN-SUFFIX,icloud-isupport.com
 DOMAIN-SUFFIX,icloud-sandbox.com
 DOMAIN-SUFFIX,icloud.ch
-DOMAIN-SUFFIX,icloud.cn
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,icloud.de
@@ -5745,6 +5744,7 @@ DOMAIN-SUFFIX,netconsumerguide.com
 DOMAIN-SUFFIX,netcredit.com
 DOMAIN-SUFFIX,netflix.ca
 DOMAIN-SUFFIX,netflix.com
+DOMAIN-SUFFIX,netflix.com.edgesuite.net
 DOMAIN-SUFFIX,netflix.net
 DOMAIN-SUFFIX,netflixdnstest0.com
 DOMAIN-SUFFIX,netflixdnstest1.com
@@ -8525,7 +8525,6 @@ DOMAIN,iphone-ld.origin-apple.com.akadns.net
 DOMAIN,mesu-cdn.apple.com.akadns.net
 DOMAIN,mesu-china.apple.com.akadns.net
 DOMAIN,mwf-service.akamaized.net
-DOMAIN,netflix.com.edgesuite.net
 DOMAIN,o33249.ingest.sentry.io
 DOMAIN,o33249.ingest.us.sentry.io
 DOMAIN,officecdn-microsoft-com.akamaized.net

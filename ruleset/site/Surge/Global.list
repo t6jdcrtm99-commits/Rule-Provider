@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: Global
 # 全球（Global）
-# 数据日期: 2026-10-24
+# 数据日期: 2026-10-26
 # 数据来源: v2fly domain-list-community + CrUX top sites
-# 规则统计: 共 180565 条（域名: 180449 / 精确域名: 105 / 正则: 11）
+# 规则统计: 共 180578 条（域名: 180464 / 精确域名: 103 / 正则: 11）
 # ============================================================
 DOMAIN-SUFFIX,000h555.com
 DOMAIN-SUFFIX,000q789.com
@@ -23538,6 +23538,7 @@ DOMAIN-SUFFIX,bigchange.com
 DOMAIN-SUFFIX,bigclash4.com
 DOMAIN-SUFFIX,bigcommerce.com
 DOMAIN-SUFFIX,bigconvert.com
+DOMAIN-SUFFIX,bigdatacq.com
 DOMAIN-SUFFIX,bigdatape.com
 DOMAIN-SUFFIX,bigdogdick.com
 DOMAIN-SUFFIX,bigearlbikes.com
@@ -31602,6 +31603,8 @@ DOMAIN-SUFFIX,cdnviidey.site
 DOMAIN-SUFFIX,cdo-888.net
 DOMAIN-SUFFIX,cdoi.events
 DOMAIN-SUFFIX,cdplay.net
+DOMAIN-SUFFIX,cdrcb.com
+DOMAIN-SUFFIX,cdrcbank.com
 DOMAIN-SUFFIX,cdreader.com
 DOMAIN-SUFFIX,cdrmedios.com
 DOMAIN-SUFFIX,cdromance.org
@@ -34864,6 +34867,7 @@ DOMAIN-SUFFIX,clcindonesia.com
 DOMAIN-SUFFIX,clckfltr.com
 DOMAIN-SUFFIX,clclubs.com
 DOMAIN-SUFFIX,clcvenezuela.com
+DOMAIN-SUFFIX,cldisk.com
 DOMAIN-SUFFIX,cle-des-arts.com
 DOMAIN-SUFFIX,clean-kazoo-75.net
 DOMAIN-SUFFIX,cleanapps.site
@@ -38389,6 +38393,7 @@ DOMAIN-SUFFIX,cqbys.com
 DOMAIN-SUFFIX,cqcb.com
 DOMAIN-SUFFIX,cqccn.com
 DOMAIN-SUFFIX,cqcorea.com
+DOMAIN-SUFFIX,cqdcg.com
 DOMAIN-SUFFIX,cqfd-avocats.com
 DOMAIN-SUFFIX,cqliving.com
 DOMAIN-SUFFIX,cqnews.net
@@ -38396,6 +38401,7 @@ DOMAIN-SUFFIX,cqqq.shop
 DOMAIN-SUFFIX,cqranking.com
 DOMAIN-SUFFIX,cqsjb.com
 DOMAIN-SUFFIX,cqvip.com
+DOMAIN-SUFFIX,cqyyxc.com
 DOMAIN-SUFFIX,cr
 DOMAIN-SUFFIX,cr-11.com
 DOMAIN-SUFFIX,cr-chat.com
@@ -43680,6 +43686,7 @@ DOMAIN-SUFFIX,digitalcenterpy.com
 DOMAIN-SUFFIX,digitalcg.net
 DOMAIN-SUFFIX,digitalchina.com
 DOMAIN-SUFFIX,digitalclock.live
+DOMAIN-SUFFIX,digitalcnzz.com
 DOMAIN-SUFFIX,digitalcommerceplace.com
 DOMAIN-SUFFIX,digitalcreatorawards.com
 DOMAIN-SUFFIX,digitalcryptopay.com
@@ -47937,6 +47944,7 @@ DOMAIN-SUFFIX,ease.travel
 DOMAIN-SUFFIX,easebar.com
 DOMAIN-SUFFIX,easee.com
 DOMAIN-SUFFIX,easefulsteps.com
+DOMAIN-SUFFIX,easemob.com
 DOMAIN-SUFFIX,easemytrip.com
 DOMAIN-SUFFIX,easesale.com
 DOMAIN-SUFFIX,easetv.info
@@ -57260,6 +57268,7 @@ DOMAIN-SUFFIX,filmola.com
 DOMAIN-SUFFIX,filmoland.com
 DOMAIN-SUFFIX,filmolino.net
 DOMAIN-SUFFIX,filmonizirani.net
+DOMAIN-SUFFIX,filmorigin.com
 DOMAIN-SUFFIX,filmot.com
 DOMAIN-SUFFIX,filmotip.org
 DOMAIN-SUFFIX,filmoton.org
@@ -75061,6 +75070,7 @@ DOMAIN-SUFFIX,ibalbook.com
 DOMAIN-SUFFIX,iban.com
 DOMAIN-SUFFIX,ibancalculator.com
 DOMAIN-SUFFIX,ibanfirst.com
+DOMAIN-SUFFIX,ibangbank.com
 DOMAIN-SUFFIX,ibanking-services.com
 DOMAIN-SUFFIX,ibanoo.mom
 DOMAIN-SUFFIX,ibanoplata.com
@@ -79287,6 +79297,7 @@ DOMAIN-SUFFIX,ishuqi.com
 DOMAIN-SUFFIX,ishyiga.net
 DOMAIN-SUFFIX,isiboman.com
 DOMAIN-SUFFIX,isibomedia.com
+DOMAIN-SUFFIX,isigning.com
 DOMAIN-SUFFIX,isikeurmassar.com
 DOMAIN-SUFFIX,isikkitabevi.com
 DOMAIN-SUFFIX,isilver925.com
@@ -81775,7 +81786,6 @@ DOMAIN-SUFFIX,jikecdn.com
 DOMAIN-SUFFIX,jikeiot.cloud
 DOMAIN-SUFFIX,jikexueyuan.com
 DOMAIN-SUFFIX,jikguunni.com
-DOMAIN-SUFFIX,jikipedia.com
 DOMAIN-SUFFIX,jikiu.com
 DOMAIN-SUFFIX,jikotach.online
 DOMAIN-SUFFIX,jil.travel
@@ -84144,6 +84154,7 @@ DOMAIN-SUFFIX,kakaopiccoma.com
 DOMAIN-SUFFIX,kakaostyle.com
 DOMAIN-SUFFIX,kakaovx.com
 DOMAIN-SUFFIX,kakaowork.com
+DOMAIN-SUFFIX,kakaxing.com
 DOMAIN-SUFFIX,kakekmerah4dempat.com
 DOMAIN-SUFFIX,kakhacker.com
 DOMAIN-SUFFIX,kaki21.site
@@ -105156,7 +105167,6 @@ DOMAIN-SUFFIX,moeedu.org
 DOMAIN-SUFFIX,moefriends.com
 DOMAIN-SUFFIX,moegh.com
 DOMAIN-SUFFIX,moegirl.icu
-DOMAIN-SUFFIX,moegirl.org
 DOMAIN-SUFFIX,moegy.org
 DOMAIN-SUFFIX,moeinsocks.com
 DOMAIN-SUFFIX,moelectriclb.com
@@ -110486,6 +110496,7 @@ DOMAIN-SUFFIX,nannyideal.com
 DOMAIN-SUFFIX,nano-manga.com
 DOMAIN-SUFFIX,nanobionic.com
 DOMAIN-SUFFIX,nanocom-bg.com
+DOMAIN-SUFFIX,nanocorechip.com
 DOMAIN-SUFFIX,nanoderma.online
 DOMAIN-SUFFIX,nanodog.net
 DOMAIN-SUFFIX,nanoe.net
@@ -111766,6 +111777,7 @@ DOMAIN-SUFFIX,netflav.com
 DOMAIN-SUFFIX,netflav5.com
 DOMAIN-SUFFIX,netflix-news.com
 DOMAIN-SUFFIX,netflix.com
+DOMAIN-SUFFIX,netflix.com.edgesuite.net
 DOMAIN-SUFFIX,netflix.net
 DOMAIN-SUFFIX,netflixdnstest0.com
 DOMAIN-SUFFIX,netflixdnstest1.com
@@ -147715,6 +147727,7 @@ DOMAIN-SUFFIX,spotidown.net
 DOMAIN-SUFFIX,spotidownloader.com
 DOMAIN-SUFFIX,spotify-everywhere.com
 DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,spotify.com.edgesuite.net
 DOMAIN-SUFFIX,spotify.design
 DOMAIN-SUFFIX,spotify.link
 DOMAIN-SUFFIX,spotifycdn.com
@@ -174678,6 +174691,7 @@ DOMAIN-SUFFIX,xiaolu.pro
 DOMAIN-SUFFIX,xiaoluyouxuan.com
 DOMAIN-SUFFIX,xiaoluzhidian.com
 DOMAIN-SUFFIX,xiaomaicn.com
+DOMAIN-SUFFIX,xiaomaigui.com
 DOMAIN-SUFFIX,xiaomengai.com
 DOMAIN-SUFFIX,xiaomi.com
 DOMAIN-SUFFIX,xiaomi.net
@@ -175820,6 +175834,7 @@ DOMAIN-SUFFIX,xuetk.vip
 DOMAIN-SUFFIX,xuexi365.com
 DOMAIN-SUFFIX,xuexi365.net
 DOMAIN-SUFFIX,xuexicha.com
+DOMAIN-SUFFIX,xuexitong.com
 DOMAIN-SUFFIX,xuitebackup.net
 DOMAIN-SUFFIX,xujan.com
 DOMAIN-SUFFIX,xujc.com
@@ -180513,7 +180528,6 @@ DOMAIN,linear-abematv.akamaized.net
 DOMAIN,mesu-cdn.apple.com.akadns.net
 DOMAIN,mesu-china.apple.com.akadns.net
 DOMAIN,mwf-service.akamaized.net
-DOMAIN,netflix.com.edgesuite.net
 DOMAIN,officecdn-microsoft-com.akamaized.net
 DOMAIN,openaicom.imgix.net
 DOMAIN,oscdn.origin-apple.com.akadns.net
@@ -180530,7 +180544,6 @@ DOMAIN,roovza-launches.appsflyersdk.com
 DOMAIN,roovza.inapps.appsflyersdk.com
 DOMAIN,roovza.launches.appsflyersdk.com
 DOMAIN,roovza.skadsdk.appsflyersdk.com
-DOMAIN,spotify.com.edgesuite.net
 DOMAIN,spotify.map.fastly.net
 DOMAIN,spotify.map.fastlylb.net
 DOMAIN,statics-marketingsites-eas-ms-com.akamaized.net

@@ -1,7 +1,7 @@
 # ============================================================
 # Rule-Provider: DO
 # 多米尼加（Dominican Republic）
-# 数据日期: 2026-10-24
+# 数据日期: 2026-10-26
 # 数据来源: APNIC + IPtoASN
 # 规则统计: 共 665 条（IPv4: 447 / IPv6: 218）
 # ============================================================
@@ -44,6 +44,7 @@ payload:
   - IP-CIDR,154.40.139.0/24,no-resolve
   - IP-CIDR,154.41.144.0/20,no-resolve
   - IP-CIDR,154.43.45.0/24,no-resolve
+  - IP-CIDR,154.46.23.0/24,no-resolve
   - IP-CIDR,154.49.138.0/23,no-resolve
   - IP-CIDR,154.50.125.0/24,no-resolve
   - IP-CIDR,154.56.119.0/24,no-resolve
@@ -292,8 +293,7 @@ payload:
   - IP-CIDR,38.199.100.0/22,no-resolve
   - IP-CIDR,38.199.112.0/21,no-resolve
   - IP-CIDR,38.199.26.0/23,no-resolve
-  - IP-CIDR,38.21.0.0/20,no-resolve
-  - IP-CIDR,38.21.16.0/20,no-resolve
+  - IP-CIDR,38.21.0.0/19,no-resolve
   - IP-CIDR,38.210.118.0/24,no-resolve
   - IP-CIDR,38.210.225.0/24,no-resolve
   - IP-CIDR,38.210.90.0/24,no-resolve

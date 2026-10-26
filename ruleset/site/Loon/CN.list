@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: CN
 # 中国（China）
-# 数据日期: 2026-10-24
+# 数据日期: 2026-10-26
 # 数据来源: v2fly domain-list-community + CrUX top sites
-# 规则统计: 共 10311 条（域名: 10293 / 精确域名: 15 / 正则: 3）
+# 规则统计: 共 10324 条（域名: 10306 / 精确域名: 15 / 正则: 3）
 # ============================================================
 DOMAIN-SUFFIX,00cdn.com
 DOMAIN-SUFFIX,0101.co.jp
@@ -1455,6 +1455,7 @@ DOMAIN-SUFFIX,bidchance.com
 DOMAIN-SUFFIX,biddingx.com
 DOMAIN-SUFFIX,bidianer.com
 DOMAIN-SUFFIX,biff.kr
+DOMAIN-SUFFIX,bigdatacq.com
 DOMAIN-SUFFIX,bigo.sg
 DOMAIN-SUFFIX,bigseller.com
 DOMAIN-SUFFIX,bihu.com
@@ -1951,6 +1952,8 @@ DOMAIN-SUFFIX,cdnmg.com
 DOMAIN-SUFFIX,cdntip.com
 DOMAIN-SUFFIX,cdntips.com
 DOMAIN-SUFFIX,cdntips.net
+DOMAIN-SUFFIX,cdrcb.com
+DOMAIN-SUFFIX,cdrcbank.com
 DOMAIN-SUFFIX,cdtsf.com
 DOMAIN-SUFFIX,cdut.top
 DOMAIN-SUFFIX,ceair.com
@@ -2188,6 +2191,7 @@ DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claudechn.com
 DOMAIN-SUFFIX,clawhub-mirror.com
 DOMAIN-SUFFIX,clawhubmirror.com
+DOMAIN-SUFFIX,cldisk.com
 DOMAIN-SUFFIX,cleanip.io
 DOMAIN-SUFFIX,cleargrass.com
 DOMAIN-SUFFIX,clegc-gckey.gc.ca
@@ -2478,10 +2482,12 @@ DOMAIN-SUFFIX,cpppf.org
 DOMAIN-SUFFIX,cqbys.com
 DOMAIN-SUFFIX,cqcb.com
 DOMAIN-SUFFIX,cqccn.com
+DOMAIN-SUFFIX,cqdcg.com
 DOMAIN-SUFFIX,cqliving.com
 DOMAIN-SUFFIX,cqnews.net
 DOMAIN-SUFFIX,cqsjb.com
 DOMAIN-SUFFIX,cqvip.com
+DOMAIN-SUFFIX,cqyyxc.com
 DOMAIN-SUFFIX,cr-cts.com
 DOMAIN-SUFFIX,cr.gov.hk
 DOMAIN-SUFFIX,cr173.com
@@ -2789,6 +2795,7 @@ DOMAIN-SUFFIX,digikey.com
 DOMAIN-SUFFIX,digimart.net
 DOMAIN-SUFFIX,digital.go.jp
 DOMAIN-SUFFIX,digitalchina.com
+DOMAIN-SUFFIX,digitalcnzz.com
 DOMAIN-SUFFIX,digitaling.com
 DOMAIN-SUFFIX,dili360.com
 DOMAIN-SUFFIX,dingdachuxing.com
@@ -3066,6 +3073,7 @@ DOMAIN-SUFFIX,e621.net
 DOMAIN-SUFFIX,eacg.net
 DOMAIN-SUFFIX,eagsen.com
 DOMAIN-SUFFIX,easebar.com
+DOMAIN-SUFFIX,easemob.com
 DOMAIN-SUFFIX,easesale.com
 DOMAIN-SUFFIX,easiu.com
 DOMAIN-SUFFIX,east-plus.net
@@ -3411,6 +3419,7 @@ DOMAIN-SUFFIX,fikfap.com
 DOMAIN-SUFFIX,filemood.com
 DOMAIN-SUFFIX,filez.com
 DOMAIN-SUFFIX,filmnudes.com
+DOMAIN-SUFFIX,filmorigin.com
 DOMAIN-SUFFIX,fimfiction.net
 DOMAIN-SUFFIX,fimmu.com
 DOMAIN-SUFFIX,finchina.com
@@ -4395,6 +4404,7 @@ DOMAIN-SUFFIX,ialicdn.com
 DOMAIN-SUFFIX,iask.com
 DOMAIN-SUFFIX,iau.ir
 DOMAIN-SUFFIX,ib2b1k14ib.com
+DOMAIN-SUFFIX,ibangbank.com
 DOMAIN-SUFFIX,ibaotu.com
 DOMAIN-SUFFIX,ibb.co
 DOMAIN-SUFFIX,ibbs.pro
@@ -4685,6 +4695,7 @@ DOMAIN-SUFFIX,isealsuite.com
 DOMAIN-SUFFIX,ishijue.com
 DOMAIN-SUFFIX,ishumei.com
 DOMAIN-SUFFIX,ishuqi.com
+DOMAIN-SUFFIX,isigning.com
 DOMAIN-SUFFIX,ispqcloud.com
 DOMAIN-SUFFIX,istarshine.com
 DOMAIN-SUFFIX,istoreos.com
@@ -4959,7 +4970,6 @@ DOMAIN-SUFFIX,jike.city
 DOMAIN-SUFFIX,jikecdn.com
 DOMAIN-SUFFIX,jikeiot.cloud
 DOMAIN-SUFFIX,jikexueyuan.com
-DOMAIN-SUFFIX,jikipedia.com
 DOMAIN-SUFFIX,jimeng.com
 DOMAIN-SUFFIX,jin10.com
 DOMAIN-SUFFIX,jinchutou.com
@@ -5170,6 +5180,7 @@ DOMAIN-SUFFIX,kaixin001.com
 DOMAIN-SUFFIX,kajicam.com
 DOMAIN-SUFFIX,kakagal.com
 DOMAIN-SUFFIX,kakao.com
+DOMAIN-SUFFIX,kakaxing.com
 DOMAIN-SUFFIX,kameng98.com
 DOMAIN-SUFFIX,kamept.com
 DOMAIN-SUFFIX,kanav.ad
@@ -6201,7 +6212,6 @@ DOMAIN-SUFFIX,modyolo.com
 DOMAIN-SUFFIX,moe48.com
 DOMAIN-SUFFIX,moedu.com
 DOMAIN-SUFFIX,moegirl.icu
-DOMAIN-SUFFIX,moegirl.org
 DOMAIN-SUFFIX,moeliuu.com
 DOMAIN-SUFFIX,moeshare.cc
 DOMAIN-SUFFIX,mofa.gov.pk
@@ -6405,6 +6415,7 @@ DOMAIN-SUFFIX,naijared.com
 DOMAIN-SUFFIX,naixuecha.com
 DOMAIN-SUFFIX,namiso.com
 DOMAIN-SUFFIX,nanhaicorp.com
+DOMAIN-SUFFIX,nanocorechip.com
 DOMAIN-SUFFIX,nanoka.cc
 DOMAIN-SUFFIX,nanyuenews.com
 DOMAIN-SUFFIX,narodream.top
@@ -9519,6 +9530,7 @@ DOMAIN-SUFFIX,xiaolianhb.com
 DOMAIN-SUFFIX,xiaoluyouxuan.com
 DOMAIN-SUFFIX,xiaoluzhidian.com
 DOMAIN-SUFFIX,xiaomaicn.com
+DOMAIN-SUFFIX,xiaomaigui.com
 DOMAIN-SUFFIX,xiaomengai.com
 DOMAIN-SUFFIX,xiaomi.com
 DOMAIN-SUFFIX,xiaomi.net
@@ -9715,6 +9727,7 @@ DOMAIN-SUFFIX,xuetangx.com
 DOMAIN-SUFFIX,xuexi365.com
 DOMAIN-SUFFIX,xuexi365.net
 DOMAIN-SUFFIX,xuexicha.com
+DOMAIN-SUFFIX,xuexitong.com
 DOMAIN-SUFFIX,xujc.com
 DOMAIN-SUFFIX,xundupdf.com
 DOMAIN-SUFFIX,xunfang.io

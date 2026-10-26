@@ -1,9 +1,9 @@
 # ============================================================
 # Rule-Provider: VG
 # 英属维尔京群岛（British Virgin Islands）
-# 数据日期: 2026-10-24
+# 数据日期: 2026-10-26
 # 数据来源: APNIC + IPtoASN
-# 规则统计: 共 317 条（IPv4: 252 / IPv6: 65）
+# 规则统计: 共 318 条（IPv4: 252 / IPv6: 66）
 # ============================================================
 payload:
   - IP-CIDR,103.140.232.0/24,no-resolve
@@ -275,6 +275,7 @@ payload:
   - IP-CIDR6,2604:2ba0::/32,no-resolve
   - IP-CIDR6,2605:7a80::/32,no-resolve
   - IP-CIDR6,2605:7f40::/32,no-resolve
+  - IP-CIDR6,2606:f183::/32,no-resolve
   - IP-CIDR6,2620:1e:a000::/48,no-resolve
   - IP-CIDR6,2620:48:a000::/48,no-resolve
   - IP-CIDR6,2620:4e:2000::/48,no-resolve
