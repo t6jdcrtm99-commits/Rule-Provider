@@ -209,3 +209,4 @@ python3 scripts/generate.py generate --no-site   # 只生成 IP 规则集，跳�
 [v2fly](https://github.com/v2fly/domain-list-community) ·
 [Google Chrome UX Report](https://developer.chrome.com/docs/crux/) ·
 [publicsuffix.org](https://publicsuffix.org/)
+DOMAIN-SUFFIX,stripchat.dk
